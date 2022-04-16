@@ -537,7 +537,7 @@ globalkeys = my_table.join(
     -- Default
     --awful.key({ modkey }, "p", function() menubar.show() end,
     --          {description = "show the menubar", group = "launcher"})
-    awful.key({ modkey,           }, "p", function () awful.util.spawn("/usr/bin/dmenu_recency")          end,
+    awful.key({ modkey,           }, "p", function () awful.util.spawn("/usr/bin/dmenu")          end,
               {description = "launch dmenu", group = "launcher"})
     --awful.key({ modkey }, "p", function ()
             --os.execute(string.format("dmenu_run -i -fn 'Monospace' -nb '%s' -nf '%s' -sb '%s' -sf '%s'",
