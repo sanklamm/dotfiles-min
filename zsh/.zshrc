@@ -61,7 +61,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
   git tmux python pip history-substring-search z
   composer copyfile copypath copybuffer cp docker docker-compose man
-  emacs emoji-clock extract fancy-ctrl-z git-flow zsh-nvm
+  emacs emoji-clock extract fancy-ctrl-z git-flow
 )
 
 source $ZSH/oh-my-zsh.sh
