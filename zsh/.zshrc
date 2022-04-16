@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/sean/.oh-my-zsh
+export ZSH=/home/sean/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -60,7 +60,7 @@ ZSH_THEME="robbyrussell"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git tmux python pip history-substring-search z
-  composer copyfile copydir copybuffer cp docker docker-compose man
+  composer copyfile copypath copybuffer cp docker docker-compose man
   emacs emoji-clock extract fancy-ctrl-z git-flow zsh-nvm
 )
 
@@ -139,20 +139,3 @@ alias eT="nvim ~/.config/awesome/themes/darkblue/theme.lua"
 
 ff() { fzf | xargs -r -I % $EDITOR % ; }
 fp() { du -a ~/PhpstormProjects/* | grep .php$ | awk '{print $2}' | fzf | xargs -r $EDITOR ; }
-
-# opam configuration
-test -r /home/sean/.opam/opam-init/init.zsh && . /home/sean/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
-
-fortune vimtips | lolcat
-echo ""
-
-# Nice Greetings
-# niceThings=('you look lovely today' 'you are so smart' 'I think you are fantastic' 'You are super creative' 'You can do anything' 'You write KICKASS code' 'Your hair looks amazing today' 'You inspire soooo many people' 'You are a strong powerful woman');
-# 
-# emojis=('ʕᵔᴥᵔʔ' '(｡◕‿◕｡)' '( ˘ ³˘)♥' 'ฅ^•ﻌ•^ฅ' '(づ￣ ³￣)づ' '┌(ㆆ㉨ㆆ)ʃ' '“ヽ(´▽｀)ノ”' '♥‿♥' 'ᕕ( ᐛ )ᕗ' '(ᵔᴥᵔ)')
-# 
-# index=$(( RANDOM % ${#niceThings[@]} ))
-# echo ${emojis[${index}]} ${niceThings[${index}]}
-
-
-source /home/sean/.config/broot/launcher/bash/br

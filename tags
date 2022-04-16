@@ -1,0 +1,506 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/sean/min-dotfiles/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+1]	awesome-wm/.config/awesome/lain/util/menu_iterator.lua	/^                    cbs[#cbs + 1] = rejected_cb and function() rejected_cb(ch) end or nil$/;"	f
+1]	awesome-wm/.config/awesome/lain/util/menu_iterator.lua	/^                    cbs[#cbs + 1] = selected_cb and function() selected_cb(ch) end or nil$/;"	f
+;	vim/.vimrc	/^nnoremap ; :CtrlPBuffer<CR>$/;"	m
+<Leader>n	vim/.vimrc	/^map <Leader>n :<C-U>NERDTreeToggle<CR>$/;"	m
+<f9>	vim/.vimrc	/^nnoremap <silent><f9> :set cursorline!<cr>$/;"	m
+<leader>9	vim/.vimrc	/^map <leader>9 :Tabularize\/=<cr>$/;"	m
+<leader><space>	vim/.vimrc	/^nnoremap <leader><space> :noh<cr>$/;"	m
+Always use `set_markup`	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^### Always use `set_markup`$/;"	S	section:Notes
+Arch Linux	awesome-wm/.config/awesome/lain/wiki/Home.md	/^### Arch Linux$/;"	S	section:Installation
+Awesome	awesome-wm/.config/awesome/README.rst	/^.. _Awesome: http:\/\/github.com\/awesomeWM\/awesome$/;"	T	chapter:Notes
+Awesome	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _Awesome: https:\/\/github.com\/awesomeWM\/awesome$/;"	T	section:Installation and usage
+Awesome	awesome-wm/.config/awesome/lain/README.rst	/^.. _Awesome: https:\/\/github.com\/awesomeWM\/awesome$/;"	T	section:Contributions
+Awesome WM Copycats	awesome-wm/.config/awesome/README.rst	/^Awesome WM Copycats$/;"	c
+Awesome-Freedesktop	awesome-wm/.config/awesome/freedesktop/README.rst	/^Awesome-Freedesktop$/;"	c
+BY-NC-SA	awesome-wm/.config/awesome/README.rst	/^.. _BY-NC-SA: http:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0$/;"	T	chapter:Notes
+Buttons	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Buttons$/;"	s
+Buttons	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^## Buttons$/;"	s
+Buttons	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Buttons$/;"	s
+Buttons	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^## Buttons$/;"	s
+Checkbox status widget	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^#### Checkbox status widget$/;"	t	subsection:Usage examples
+Contributions	awesome-wm/.config/awesome/lain/README.rst	/^Contributions$/;"	s	chapter:Lain
+Cover not showing in notifications	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^### Cover not showing in notifications$/;"	S	section:Notes
+Default `notification_preset`	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^### Default `notification_preset`$/;"	S	section:Input table
+Default `notification_preset`	awesome-wm/.config/awesome/lain/wiki/cal.md	/^### Default `notification_preset`$/;"	S	section:Input table
+Default `notification_preset`	awesome-wm/.config/awesome/lain/wiki/fs.md	/^### Default `notification_preset`$/;"	S	section:Input table
+Default `notification_preset`	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^### Default `notification_preset`$/;"	S	section:Input table
+Default `notification_preset`	awesome-wm/.config/awesome/lain/wiki/task.md	/^### Default `notification_preset`$/;"	S	section:Usage
+Default `settings` function	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### Default `settings` function$/;"	S	section:Input table
+Default colors	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^### Default colors$/;"	S	section:Input table
+Default colors	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^### Default colors$/;"	S	section:Input table
+Dependencies	awesome-wm/.config/awesome/lain/wiki/Home.md	/^Dependencies$/;"	s
+Description	awesome-wm/.config/awesome/README.rst	/^Description$/;"	c
+Description	awesome-wm/.config/awesome/freedesktop/README.rst	/^Description$/;"	s	chapter:Awesome-Freedesktop
+Description	awesome-wm/.config/awesome/lain/README.rst	/^Description$/;"	s	chapter:Lain
+Description	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/bat.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/cal.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/cpu.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/fs.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/imap.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/mem.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/moc.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/net.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/sysload.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/task.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/temp.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^# Description$/;"	c
+Description	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### Description$/;"	S	section:Usage
+Description	awesome-wm/.config/awesome/lain/wiki/weather.md	/^### Description$/;"	S	section:Usage
+Dynamic tagging	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^Dynamic tagging$/;"	s
+EOF	scripts/bin/bunnyfetch	/^cat << EOF$/;"	h
+EOF	scripts/bin/colorballs	/^cat << EOF$/;"	h
+EOF	scripts/bin/colorblocks	/^cat << EOF$/;"	h
+EOF	scripts/bin/colorpanes	/^cat << EOF$/;"	h
+Err	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function Err (msg)$/;"	f
+ErrorCall	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function ErrorCall (str, pos, msg, state)$/;"	f
+Example	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Example$/;"	s
+Examples	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^### Examples$/;"	S	section:menu\\_iterator
+Features	awesome-wm/.config/awesome/README.rst	/^Features$/;"	c
+FontAwesome	awesome-wm/.config/awesome/README.rst	/^.. _FontAwesome: https:\/\/github.com\/FortAwesome\/Font-Awesome$/;"	T	chapter:Notes
+Freedesktop.org menu and desktop icons support for Awesome WM 4.x	awesome-wm/.config/awesome/freedesktop/README.rst	/^Freedesktop.org menu and desktop icons support for Awesome WM 4.x$/;"	s	chapter:Awesome-Freedesktop
+Functions	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^# Functions$/;"	c
+Functions	awesome-wm/.config/awesome/lain/wiki/weather.md	/^## Functions$/;"	s
+GNU-GPL2	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _GNU-GPL2: http:\/\/www.gnu.org\/licenses\/gpl-2.0.html$/;"	T	section:Installation and usage
+GNU-GPL2	awesome-wm/.config/awesome/lain/README.rst	/^.. _GNU-GPL2: http:\/\/www.gnu.org\/licenses\/gpl-2.0.html$/;"	T	section:Contributions
+Gallery	awesome-wm/.config/awesome/README.rst	/^Gallery$/;"	c
+How do layouts work?	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^How do layouts work?$/;"	c
+How to provide X error log	awesome-wm/.config/awesome/lain/ISSUE_TEMPLATE.md	/^# How to provide X error log$/;"	c
+Icons	awesome-wm/.config/awesome/README.rst	/^.. _Icons: https:\/\/github.com\/lcpz\/dots\/tree\/master\/.fonts$/;"	T	chapter:Notes
+If Awesome fails to start	awesome-wm/.config/awesome/ISSUE_TEMPLATE.md	/^# If Awesome fails to start$/;"	c
+If you have a new feature or theme request	awesome-wm/.config/awesome/ISSUE_TEMPLATE.md	/^# If you have a new feature or theme request$/;"	c
+If you have a question	awesome-wm/.config/awesome/ISSUE_TEMPLATE.md	/^# If you have a question$/;"	c
+If you have an issue	awesome-wm/.config/awesome/lain/ISSUE_TEMPLATE.md	/^# If you have an issue$/;"	c
+If you have an issue <a name="issuesec"/>	awesome-wm/.config/awesome/ISSUE_TEMPLATE.md	/^# If you have an issue <a name="issuesec"\/>$/;"	c
+Index	awesome-wm/.config/awesome/lain/wiki/Widgets.md	/^# Index$/;"	c
+Input table	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/bat.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/cal.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/cpu.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/fs.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/imap.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/mem.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/moc.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/net.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/sysload.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/temp.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^### Input table$/;"	S	section:Functions""tp_smapi.create_widget(args)
+Input table	awesome-wm/.config/awesome/lain/wiki/watch.md	/^## Input table$/;"	s
+Input table	awesome-wm/.config/awesome/lain/wiki/weather.md	/^## Input table$/;"	s
+Input tables	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^### Input tables$/;"	S	section:menu\\_iterator
+Installation	awesome-wm/.config/awesome/README.rst	/^Installation$/;"	c
+Installation	awesome-wm/.config/awesome/lain/wiki/Home.md	/^Installation$/;"	s
+Installation and usage	awesome-wm/.config/awesome/freedesktop/README.rst	/^Installation and usage$/;"	s	chapter:Awesome-Freedesktop
+Inverted master	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^Inverted master$/;"	s	chapter:Pre 4.0 `uselesstile` patches
+Keybinding	awesome-wm/.config/awesome/lain/wiki/cal.md	/^## Keybinding$/;"	s
+Keybinding	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^#### Keybinding$/;"	t	subsection:Usage examples
+Keybindings	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/moc.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^## Keybindings$/;"	s
+Keybindings	awesome-wm/.config/awesome/lain/wiki/weather.md	/^## Keybindings$/;"	s
+Lain	awesome-wm/.config/awesome/lain/README.rst	/^Lain$/;"	c
+Layouts, widgets and utilities for Awesome WM 4.x	awesome-wm/.config/awesome/lain/README.rst	/^Layouts, widgets and utilities for Awesome WM 4.x$/;"	s	chapter:Lain
+Menubar	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _Menubar: https:\/\/github.com\/awesomeWM\/awesome\/tree\/master\/lib\/menubar$/;"	T	section:Installation and usage
+Muting with PulseAudio	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^### Muting with PulseAudio$/;"	S	section:Keybindings
+Note	awesome-wm/.config/awesome/lain/wiki/bat.md	/^## Note$/;"	s
+Note	awesome-wm/.config/awesome/lain/wiki/fs.md	/^## Note$/;"	s
+Note	awesome-wm/.config/awesome/lain/wiki/task.md	/^## Note$/;"	s
+Notes	awesome-wm/.config/awesome/README.rst	/^Notes$/;"	c
+Notes	awesome-wm/.config/awesome/lain/wiki/cal.md	/^## Notes$/;"	s
+Notes	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^## Notes$/;"	s
+Notes	awesome-wm/.config/awesome/lain/wiki/net.md	/^## Notes$/;"	s
+Other distributions	awesome-wm/.config/awesome/lain/wiki/Home.md	/^### Other distributions$/;"	S	section:Installation
+Output table	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/bat.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/cal.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/cpu.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/fs.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/imap.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/mem.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/moc.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/net.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/sysload.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/temp.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^### Output table$/;"	S	section:Functions""tp_smapi.create_widget(args)
+Output table	awesome-wm/.config/awesome/lain/wiki/watch.md	/^## Output table$/;"	s
+Output table	awesome-wm/.config/awesome/lain/wiki/weather.md	/^## Output table$/;"	s
+Password security	awesome-wm/.config/awesome/lain/wiki/imap.md	/^## Password security$/;"	s
+Please, read me!	awesome-wm/.config/awesome/ISSUE_TEMPLATE.md	/^# Please, read me!$/;"	c
+Please, read me!	awesome-wm/.config/awesome/lain/ISSUE_TEMPLATE.md	/^# Please, read me!$/;"	c
+Pre 4.0 `uselesstile` patches	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^Pre 4.0 `uselesstile` patches$/;"	c
+Preparations	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^### Preparations$/;"	S
+Purpose	awesome-wm/.config/awesome/README.rst	/^Purpose$/;"	c
+Quake	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^Quake$/;"	s
+Roboto	awesome-wm/.config/awesome/README.rst	/^.. _Roboto: https:\/\/fonts.google.com\/specimen\/Roboto$/;"	T	chapter:Notes
+Screenshot	awesome-wm/.config/awesome/freedesktop/README.rst	/^Screenshot$/;"	s	chapter:Awesome-Freedesktop
+Separators	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^Separators$/;"	s
+Setting `iface` manually	awesome-wm/.config/awesome/lain/wiki/net.md	/^### Setting `iface` manually$/;"	S	section:Notes
+Tamsyn	awesome-wm/.config/awesome/README.rst	/^.. _Tamsyn: http:\/\/www.fial.com\/~scott\/tamsyn-font$/;"	T	chapter:Notes
+Tamzen	awesome-wm/.config/awesome/README.rst	/^.. _Tamzen: https:\/\/github.com\/sunaku\/tamzen-font$/;"	T	chapter:Notes
+Terminus	awesome-wm/.config/awesome/README.rst	/^.. _Terminus: http:\/\/terminus-font.sourceforge.net$/;"	T	chapter:Notes
+Textbox status widget	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^#### Textbox status widget$/;"	t	subsection:Usage examples
+Themes for Awesome WM 4.x	awesome-wm/.config/awesome/README.rst	/^Themes for Awesome WM 4.x$/;"	s	chapter:Awesome WM Copycats
+Toggle channel	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Toggle channel$/;"	s
+Two widgets for upload/download rates from the same `iface`	awesome-wm/.config/awesome/lain/wiki/net.md	/^### Two widgets for upload\/download rates from the same `iface`$/;"	S	section:Usage examples
+UTF16BMP	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function UTF16BMP (hex)$/;"	f
+UTF16Surrogate	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function UTF16Surrogate (match, pos, high, low)$/;"	f
+Ubuntu	awesome-wm/.config/awesome/README.rst	/^.. _Ubuntu: https:\/\/wiki.ubuntu.com\/Fonts#Enabling_Bitmapped_Fonts$/;"	T	chapter:Notes
+Usage	awesome-wm/.config/awesome/README.rst	/^Usage$/;"	c
+Usage	awesome-wm/.config/awesome/lain/wiki/Home.md	/^Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^Usage$/;"	c
+Usage	awesome-wm/.config/awesome/lain/wiki/Widgets.md	/^# Usage$/;"	c
+Usage	awesome-wm/.config/awesome/lain/wiki/alsa.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/alsabar.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/bat.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/cal.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/cpu.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/fs.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/imap.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/mem.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/moc.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/net.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/pulsebar.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/sysload.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/task.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/temp.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/watch.md	/^## Usage$/;"	s
+Usage	awesome-wm/.config/awesome/lain/wiki/weather.md	/^## Usage$/;"	s
+Usage example	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^### Usage example$/;"	S	section:Functions""tp_smapi.create_widget(args)
+Usage examples	awesome-wm/.config/awesome/lain/wiki/net.md	/^## Usage examples$/;"	s
+Usage examples	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^### Usage examples$/;"	S
+Use case examples	awesome-wm/.config/awesome/lain/wiki/watch.md	/^## Use case examples$/;"	s
+Useless gaps resize	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^Useless gaps resize$/;"	s
+Users contributed	awesome-wm/.config/awesome/lain/wiki/Widgets.md	/^## Users contributed$/;"	s	chapter:Index
+Using a password manager	awesome-wm/.config/awesome/lain/wiki/imap.md	/^### Using a password manager$/;"	S	section:Password security
+Using plain passwords	awesome-wm/.config/awesome/lain/wiki/imap.md	/^### Using plain passwords$/;"	S	section:Password security
+Using the widget	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^### Using the widget$/;"	S
+Volume fade in toggling MPD	awesome-wm/.config/awesome/lain/wiki/mpd.md	/^### Volume fade in toggling MPD$/;"	S	section:Notes
+What about layout icons?	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^What about layout icons?$/;"	c
+What is Redshift?	awesome-wm/.config/awesome/lain/wiki/redshift.md	/^### What is Redshift? #$/;"	S
+Wifi connection + signal strength indicator and ethernet connection indicator	awesome-wm/.config/awesome/lain/wiki/net.md	/^### Wifi connection + signal strength indicator and ethernet connection indicator$/;"	S	section:Usage examples
+Xmonad-like	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^Xmonad-like$/;"	s	chapter:Pre 4.0 `uselesstile` patches
+__call	awesome-wm/.config/awesome/lain/util/markup.lua	/^return setmetatable(markup, { __call = function(_, ...) return markup.fg.color(...) end })$/;"	f
+__call	awesome-wm/.config/awesome/lain/util/markup.lua	/^setmetatable(markup.bg, { __call = function(_, ...) return markup.bg.color(...) end })$/;"	f
+__call	awesome-wm/.config/awesome/lain/util/markup.lua	/^setmetatable(markup.fg, { __call = function(_, ...) return markup.fg.color(...) end })$/;"	f
+__call	awesome-wm/.config/awesome/lain/util/quake.lua	/^return setmetatable(quake, { __call = function(_, ...) return quake:new(...) end })$/;"	f
+__tojson	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  __tojson = function () return "null" end$/;"	f
+`cascade.tile`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`cascade.tile`$/;"	s	chapter:How do layouts work?
+`cascade`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`cascade`$/;"	s	chapter:How do layouts work?
+`centerwork.horizontal`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`centerwork.horizontal`$/;"	s	chapter:How do layouts work?
+`centerwork`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`centerwork`$/;"	s	chapter:How do layouts work?
+`settings` variables	awesome-wm/.config/awesome/lain/wiki/pulse.md	/^### `settings` variables$/;"	S	section:Input table
+`termfair.center`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`termfair.center`$/;"	s	chapter:How do layouts work?
+`termfair`	awesome-wm/.config/awesome/lain/wiki/Layouts.md	/^`termfair`$/;"	s	chapter:How do layouts work?
+addnewline2	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function addnewline2 (level, buffer, buflen)$/;"	f
+addpair	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function addpair (key, value, prev, indent, level, buffer, buflen, tables, globalorder, st/;"	f
+alsa.update	awesome-wm/.config/awesome/lain/widget/alsa.lua	/^    function alsa.update()$/;"	f
+alsabar.notify	awesome-wm/.config/awesome/lain/widget/alsabar.lua	/^    function alsabar.notify()$/;"	f
+alsabar.update	awesome-wm/.config/awesome/lain/widget/alsabar.lua	/^    function alsabar.update(callback)$/;"	f
+amouly	awesome-wm/.config/awesome/README.rst	/^.. _amouly: https:\/\/bbs.archlinux.org\/viewtopic.php?pid=1307158#p1307158$/;"	T	chapter:Notes
+appendcustom	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function appendcustom(res, buffer, state)$/;"	f
+arrange	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^local function arrange(p, layout)$/;"	f
+awesome-freedesktop	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _awesome-freedesktop: https:\/\/github.com\/terceiro\/awesome-freedesktop$/;"	T	section:Installation and usage
+awesome-vain	awesome-wm/.config/awesome/lain/README.rst	/^.. _awesome-vain: https:\/\/github.com\/vain\/awesome-vain$/;"	T	section:Contributions
+awful.widget.taglist.filter.all	awesome-wm/.config/awesome/themes/copland/theme.lua	/^awful.widget.taglist.filter.all = function (t, args)$/;"	f
+b0ab0d7	awesome-wm/.config/awesome/README.rst	/^.. _b0ab0d7: https:\/\/github.com\/lcpz\/awesome-copycats\/tree\/b0ab0d7837987be81b9195a36631df7/;"	T	chapter:Notes
+bat.get_batteries	awesome-wm/.config/awesome/lain/widget/bat.lua	/^    function bat.get_batteries()$/;"	f
+bat.update	awesome-wm/.config/awesome/lain/widget/bat.lua	/^    function bat.update()$/;"	f
+binclock.dec2bin	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^function binclock.dec2bin(num, bits)$/;"	f
+binclock.paintdot	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^function binclock.paintdot(cr, val, shift)$/;"	f
+bitcoin	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### bitcoin$/;"	S	section:Use case examples
+branches	awesome-wm/.config/awesome/README.rst	/^.. _branches: https:\/\/github.com\/lcpz\/awesome-copycats\/branches$/;"	T	chapter:Notes
+branches	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _branches: https:\/\/github.com\/lcpz\/awesome-freedesktop\/branches$/;"	T	section:Installation and usage
+btrfs	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### btrfs$/;"	S	section:Use case examples
+cal.attach	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.attach(widget)$/;"	f
+cal.build	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.build(month, year)$/;"	f
+cal.get_week_number	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.get_week_number(m, st_day, x)$/;"	f
+cal.getdate	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.getdate(month, year, offset)$/;"	f
+cal.hide	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.hide()$/;"	f
+cal.hover_on	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.hover_on() cal.show(0) end$/;"	f
+cal.move	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.move(offset)$/;"	f
+cal.next	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.next() cal.move( 1) end$/;"	f
+cal.prev	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.prev() cal.move(-1) end$/;"	f
+cal.show	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.show(seconds, month, year, scr)$/;"	f
+cal.sum_week_days	awesome-wm/.config/awesome/lain/widget/cal.lua	/^    function cal.sum_week_days(x, y)$/;"	f
+callback	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^        callback   = function()$/;"	f
+cascade.arrange	awesome-wm/.config/awesome/lain/layout/cascade.lua	/^function cascade.arrange(p)$/;"	f
+cascade.tile.arrange	awesome-wm/.config/awesome/lain/layout/cascade.lua	/^function cascade.tile.arrange(p)$/;"	f
+centerwork.arrange	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^function centerwork.arrange(p)$/;"	f
+centerwork.horizontal.arrange	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^function centerwork.horizontal.arrange(p)$/;"	f
+centerwork.horizontal.mouse_resize_handler	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^function centerwork.horizontal.mouse_resize_handler(c, corner, x, y)$/;"	f
+centerwork.mouse_resize_handler	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^function centerwork.mouse_resize_handler(c, corner, x, y)$/;"	f
+city.list.json.gz	awesome-wm/.config/awesome/README.rst	/^.. _city.list.json.gz: http:\/\/bulk.openweathermap.org\/sample\/city.list.json.gz$/;"	T	chapter:Notes
+cmus	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### cmus$/;"	S	section:Use case examples
+colorscheme	awesome-wm/.config/awesome/README.rst	/^.. _colorscheme: https:\/\/github.com\/lcpz\/dots\/tree\/master\/.colors$/;"	T	chapter:Notes
+cpu.update	awesome-wm/.config/awesome/lain/widget/cpu.lua	/^    function cpu.update()$/;"	f
+desktop.add_base_icons	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.add_base_icons(args)$/;"	f
+desktop.add_dirs_and_files_icons	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.add_dirs_and_files_icons(args)$/;"	f
+desktop.add_icons	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.add_icons(args)$/;"	f
+desktop.add_single_icon	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.add_single_icon(args, label, icon, onclick)$/;"	f
+desktop.lookup_file_icon	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.lookup_file_icon(filename)$/;"	f
+desktop.parse_dirs_and_files	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^function desktop.parse_dirs_and_files(dir)$/;"	f
+destroy	awesome-wm/.config/awesome/lain/widget/alsabar.lua	/^                    destroy = function() alsabar.notification = nil end$/;"	f
+destroy	awesome-wm/.config/awesome/lain/widget/pulsebar.lua	/^                    destroy = function() pulsebar.notification = nil end$/;"	f
+do_cascade	awesome-wm/.config/awesome/lain/layout/cascade.lua	/^local function do_cascade(p, tiling)$/;"	f
+do_fair	awesome-wm/.config/awesome/lain/layout/termfair.lua	/^local function do_fair(p, orientation)$/;"	f
+dockshape	awesome-wm/.config/awesome/themes/vertex/theme.lua	/^local dockshape = function(cr, width, height)$/;"	f
+draw	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^        draw = function(self, context, cr, width, height)$/;"	f
+encode2	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^encode2 = function (value, indent, level, buffer, buflen, tables, globalorder, state)$/;"	f
+escapeutf8	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function escapeutf8 (uchar)$/;"	f
+exception	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function exception(reason, value, state, buffer, buflen, defaultmessage)$/;"	f
+exe_callback	awesome-wm/.config/awesome/lain/util/init.lua	/^        exe_callback = function(name)$/;"	f
+exe_callback	awesome-wm/.config/awesome/lain/util/init.lua	/^        exe_callback = function(new_name)$/;"	f
+exe_callback	awesome-wm/.config/awesome/lain/widget/contrib/task.lua	/^        exe_callback = function(t)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/alsa.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/alsabar.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/bat.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/cal.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/contrib/moc.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^local function factory(apipath)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/cpu.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/fs.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/imap.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/mem.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/mpd.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/net.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/pulse.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/pulsebar.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/sysload.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/temp.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/lain/widget/weather.lua	/^local function factory(args)$/;"	f
+factory	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^local function factory(args)$/;"	f
+fit	awesome-wm/.config/awesome/themes/powerarrow/binclock.lua	/^        fit = function(self, context, width, height)$/;"	f
+foozer	awesome-wm/.config/awesome/README.rst	/^.. _foozer: http:\/\/dotshare.it\/dots\/499$/;"	T	chapter:Notes
+freedesktop	awesome-wm/.config/awesome/README.rst	/^.. _freedesktop: https:\/\/github.com\/lcpz\/awesome-freedesktop$/;"	T	chapter:Notes
+fs.hide	awesome-wm/.config/awesome/lain/widget/fs.lua	/^    function fs.hide()$/;"	f
+fs.show	awesome-wm/.config/awesome/lain/widget/fs.lua	/^    function fs.show(seconds, scr)$/;"	f
+fs.update	awesome-wm/.config/awesome/lain/widget/fs.lua	/^    function fs.update()$/;"	f
+fsub	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function fsub (str, pattern, repl)$/;"	f
+g:NERDTreeQuitOnOpen	vim/.vimrc	/^let g:NERDTreeQuitOnOpen = 1$/;"	v
+g:ackprg	vim/.vimrc	/^    let g:ackprg = 'ag --vimgrep'$/;"	v
+g:ctrlp_map	vim/.vimrc	/^let g:ctrlp_map = '<leader>t'$/;"	v
+g:phpqa_codesniffer_args	vim/.vimrc	/^let g:phpqa_codesniffer_args = "--standard=WordPress"$/;"	v
+g:phpqa_codesniffer_autorun	vim/.vimrc	/^let g:phpqa_codesniffer_autorun = 0$/;"	v
+g:phpqa_messdetector_autorun	vim/.vimrc	/^let g:phpqa_messdetector_autorun = 0$/;"	v
+helpers.async	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.async(cmd, callback)$/;"	f
+helpers.async_with_shell	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.async_with_shell(cmd, callback)$/;"	f
+helpers.element_in_table	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.element_in_table(element, tbl)$/;"	f
+helpers.file_exists	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.file_exists(path)$/;"	f
+helpers.first_line	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.first_line(path)$/;"	f
+helpers.first_nonempty_line	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.first_nonempty_line(path)$/;"	f
+helpers.get_map	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.get_map(element)$/;"	f
+helpers.line_callback	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.line_callback(cmd, callback)$/;"	f
+helpers.lines_from	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.lines_from(path)$/;"	f
+helpers.lines_match	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.lines_match(regexp, path)$/;"	f
+helpers.newtimer	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.newtimer(name, timeout, fun, nostart, stoppable)$/;"	f
+helpers.powerset	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.powerset(s)$/;"	f
+helpers.set_map	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.set_map(element, value)$/;"	f
+helpers.spairs	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.spairs(t)$/;"	f
+helpers.trivial_partition_set	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.trivial_partition_set(set)$/;"	f
+helpers.wrequire	awesome-wm/.config/awesome/lain/helpers.lua	/^function helpers.wrequire(table, key)$/;"	f
+imap.pwdtimer	awesome-wm/.config/awesome/lain/widget/imap.lua	/^            imap.pwdtimer = helpers.newtimer(mail .. "-password", pwdtimeout, function()$/;"	f
+imap.update	awesome-wm/.config/awesome/lain/widget/imap.lua	/^    function imap.update()$/;"	f
+is_vim	tmux/.tmux.conf	/^is_vim="ps -o state= -o comm= -t '#{pane_tty}' \\$/;"	k
+isarray	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function isarray (tbl)$/;"	f
+iterate	awesome-wm/.config/awesome/lain/util/menu_iterator.lua	/^local function iterate(menu, timeout, icon)$/;"	f
+json.addnewline	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^function json.addnewline (state)$/;"	f
+json.decode	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  function json.decode (str, pos, nullval, ...)$/;"	f
+json.decode	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^function json.decode (str, pos, nullval, ...)$/;"	f
+json.encode	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^function json.encode (value, state)$/;"	f
+json.encodeexception	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^function json.encodeexception(reason, value, state, defaultmessage)$/;"	f
+json.use_lpeg	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  json.use_lpeg = function () return json end$/;"	f
+json.use_lpeg	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^function json.use_lpeg ()$/;"	f
+lain	awesome-wm/.config/awesome/README.rst	/^.. _lain: https:\/\/github.com\/lcpz\/lain$/;"	T	chapter:Notes
+lain.helpers	awesome-wm/.config/awesome/lain/README.rst	/^.. _lain.helpers: https:\/\/github.com\/lcpz\/lain\/blob\/master\/helpers.lua$/;"	T	section:Contributions
+loc	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function loc (str, where)$/;"	f
+lucamanni	awesome-wm/.config/awesome/README.rst	/^.. _lucamanni: https:\/\/github.com\/lucamanni\/awesome$/;"	T	chapter:Notes
+magnify\\_client	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^magnify\\_client$/;"	s
+maildir	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### maildir$/;"	S	section:Use case examples
+mapleader	vim/.vimrc	/^let mapleader = ","                     " Set the <Leader> for combo commands$/;"	v
+markup	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^markup$/;"	s
+markup.bg.color	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.bg.color(color, text)$/;"	f
+markup.big	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.big(text)       return format("<big>%s<\/big>",     text) end$/;"	f
+markup.bold	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.bold(text)      return format("<b>%s<\/b>",         text) end$/;"	f
+markup.color	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.color(fg, bg, text)$/;"	f
+markup.fg.color	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.fg.color(color, text)$/;"	f
+markup.font	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.font(font, text)$/;"	f
+markup.fontbg	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.fontbg(font, bg, text)$/;"	f
+markup.fontcolor	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.fontcolor(font, fg, bg, text)$/;"	f
+markup.fontfg	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.fontfg(font, fg, text)$/;"	f
+markup.italic	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.italic(text)    return format("<i>%s<\/i>",         text) end$/;"	f
+markup.monospace	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.monospace(text) return format("<tt>%s<\/tt>",       text) end$/;"	f
+markup.small	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.small(text)     return format("<small>%s<\/small>", text) end$/;"	f
+markup.strike	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.strike(text)    return format("<s>%s<\/s>",         text) end$/;"	f
+markup.underline	awesome-wm/.config/awesome/lain/util/markup.lua	/^function markup.underline(text) return format("<u>%s<\/u>",         text) end$/;"	f
+mem.update	awesome-wm/.config/awesome/lain/widget/mem.lua	/^    function mem.update()$/;"	f
+menu	awesome-wm/.config/awesome/lain/util/menu_iterator.lua	/^local function menu(args)$/;"	f
+menu.build	awesome-wm/.config/awesome/freedesktop/menu.lua	/^function menu.build(args)$/;"	f
+menu.has_value	awesome-wm/.config/awesome/freedesktop/menu.lua	/^function menu.has_value (tab, val)$/;"	f
+menu.is_dir	awesome-wm/.config/awesome/freedesktop/menu.lua	/^function menu.is_dir(path)$/;"	f
+menu\\_clients\\_current\\_tags	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^menu\\_clients\\_current\\_tags$/;"	s
+menu\\_iterator	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^menu\\_iterator$/;"	s
+moc.update	awesome-wm/.config/awesome/lain/widget/contrib/moc.lua	/^    function moc.update()$/;"	f
+mouse_resize_handler	awesome-wm/.config/awesome/lain/layout/centerwork.lua	/^local function mouse_resize_handler(c, corner, x, y, orientation)$/;"	f
+mpd.update	awesome-wm/.config/awesome/lain/widget/mpd.lua	/^    function mpd.update()$/;"	f
+mpris	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### mpris$/;"	S	section:Use case examples
+naughty_destroy_callback	awesome-wm/.config/awesome/lain/util/menu_iterator.lua	/^local function naughty_destroy_callback(reason)$/;"	f
+net.get_device	awesome-wm/.config/awesome/lain/widget/net.lua	/^    function net.get_device()$/;"	f
+net.update	awesome-wm/.config/awesome/lain/widget/net.lua	/^    function net.update()$/;"	f
+num2str	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function num2str (num)$/;"	f
+ok100	awesome-wm/.config/awesome/README.rst	/^.. _ok100: http:\/\/ok100.deviantart.com\/art\/DWM-January-2013-348656846$/;"	T	chapter:Notes
+onclick	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^            local onclick = function () awful.spawn(string.format("%s '%s'", args.open_with, fil/;"	f
+optionalmetatables	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function optionalmetatables(...)$/;"	f
+parsearray	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function parsearray (str, pos, nullval, state)$/;"	f
+parseobject	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^  local function parseobject (str, pos, nullval, state)$/;"	f
+pid	awesome-wm/.config/awesome/lain/widget/contrib/redshift.lua	/^    async({ awful.util.shell, "-c", string.format("ps -p %d -o pid=", redshift.pid) }, function(/;"	f
+pipelines	awesome-wm/.config/awesome/freedesktop/desktop.lua	/^local function pipelines(...)$/;"	f
+pl	awesome-wm/.config/awesome/themes/powerarrow/theme.lua	/^local function pl(widget, bgcolor, padding)$/;"	f
+pulse.update	awesome-wm/.config/awesome/lain/widget/pulse.lua	/^    function pulse.update()$/;"	f
+pulsebar.notify	awesome-wm/.config/awesome/lain/widget/pulsebar.lua	/^    function pulsebar.notify()$/;"	f
+pulsebar.update	awesome-wm/.config/awesome/lain/widget/pulsebar.lua	/^    function pulsebar.update(callback)$/;"	f
+quake:compute_size	awesome-wm/.config/awesome/lain/util/quake.lua	/^function quake:compute_size()$/;"	f
+quake:display	awesome-wm/.config/awesome/lain/util/quake.lua	/^function quake:display()$/;"	f
+quake:new	awesome-wm/.config/awesome/lain/util/quake.lua	/^function quake:new(config)$/;"	f
+quake:toggle	awesome-wm/.config/awesome/lain/util/quake.lua	/^function quake:toggle()$/;"	f
+quotestring	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function quotestring (value)$/;"	f
+redshift.update_fun	awesome-wm/.config/awesome/lain/widget/contrib/redshift.lua	/^    redshift.update_fun = fun or function() end$/;"	f
+redshift:attach	awesome-wm/.config/awesome/lain/widget/contrib/redshift.lua	/^function redshift:attach(widget, fun)$/;"	f
+redshift:start	awesome-wm/.config/awesome/lain/widget/contrib/redshift.lua	/^function redshift:start()$/;"	f
+redshift:toggle	awesome-wm/.config/awesome/lain/widget/contrib/redshift.lua	/^function redshift:toggle()$/;"	f
+replace	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function replace(str, o, n)$/;"	f
+romockee	awesome-wm/.config/awesome/README.rst	/^.. _romockee: https:\/\/github.com\/romockee\/powerarrow$/;"	T	chapter:Notes
+run_once	awesome-wm/.config/awesome/rc.lua	/^local function run_once(cmd_arr)$/;"	f
+scanstring	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function scanstring (str, pos)$/;"	f
+scantable	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function scantable (what, closechar, str, startpos, nullval, objectmeta, arraymeta)$/;"	f
+scanvalue	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^scanvalue = function (str, pos, nullval, objectmeta, arraymeta)$/;"	f
+scanwhite	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function scanwhite (str, pos)$/;"	f
+separators.arrow_left	awesome-wm/.config/awesome/lain/util/separators.lua	/^function separators.arrow_left(col1, col2)$/;"	f
+separators.arrow_right	awesome-wm/.config/awesome/lain/util/separators.lua	/^function separators.arrow_right(col1, col2)$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/alsa.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/alsabar.lua	/^    local settings   = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/bat.lua	/^    local settings    = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/contrib/moc.lua	/^    local settings      = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^        local settings  = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/cpu.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/fs.lua	/^    local settings  = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/imap.lua	/^    local settings   = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/mem.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/mpd.lua	/^    local settings      = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/net.lua	/^    local settings   = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/pulse.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/pulsebar.lua	/^    local settings   = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/sysload.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/temp.lua	/^    local settings = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    local settings              = args.settings or function() end$/;"	f
+settings	awesome-wm/.config/awesome/themes/blackburn/theme.lua	/^    settings  = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/blackburn/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/copland/theme.lua	/^    settings  = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/copland/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/dremora/theme.lua	/^    settings  = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/dremora/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/holo/theme.lua	/^    settings = function ()$/;"	f
+settings	awesome-wm/.config/awesome/themes/holo/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/multicolor/theme.lua	/^    settings  = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/multicolor/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/powerarrow-dark/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/powerarrow/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/rainbow/theme.lua	/^    settings  = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/rainbow/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/steamburn/theme.lua	/^    settings = function()$/;"	f
+settings	awesome-wm/.config/awesome/themes/vertex/theme.lua	/^    settings = function()$/;"	f
+shouldInstallBundles	vim/.vimrc	/^	let shouldInstallBundles = 1$/;"	v
+shouldInstallBundles	vim/.vimrc	/^let shouldInstallBundles = 0$/;"	v
+stdout	awesome-wm/.config/awesome/lain/helpers.lua	/^        stdout = function (line)$/;"	f
+str2num	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function str2num (str)$/;"	f
+swordfischer	awesome-wm/.config/awesome/README.rst	/^.. _swordfischer: https:\/\/github.com\/lcpz\/awesome-copycats\/issues\/53$/;"	T	chapter:Notes
+sysload.update	awesome-wm/.config/awesome/lain/widget/sysload.lua	/^    function sysload.update()$/;"	f
+tag\\_view\\_nonempty	awesome-wm/.config/awesome/lain/wiki/Utilities.md	/^tag\\_view\\_nonempty$/;"	s
+task.attach	awesome-wm/.config/awesome/lain/widget/contrib/task.lua	/^function task.attach(widget, args)$/;"	f
+task.hide	awesome-wm/.config/awesome/lain/widget/contrib/task.lua	/^function task.hide()$/;"	f
+task.prompt	awesome-wm/.config/awesome/lain/widget/contrib/task.lua	/^function task.prompt()$/;"	f
+task.show	awesome-wm/.config/awesome/lain/widget/contrib/task.lua	/^function task.show(scr)$/;"	f
+temp.update	awesome-wm/.config/awesome/lain/widget/temp.lua	/^    function temp.update()$/;"	f
+termfair.arrange	awesome-wm/.config/awesome/lain/layout/termfair.lua	/^function termfair.arrange(p)$/;"	f
+termfair.center.arrange	awesome-wm/.config/awesome/lain/layout/termfair.lua	/^function termfair.center.arrange(p)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/blackburn/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/copland/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/dremora/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/holo/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/multicolor/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/powerarrow-dark/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/powerarrow/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/rainbow/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/steamburn/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.at_screen_connect	awesome-wm/.config/awesome/themes/vertex/theme.lua	/^function theme.at_screen_connect(s)$/;"	f
+theme.powerline_rl	awesome-wm/.config/awesome/themes/powerarrow/theme.lua	/^function theme.powerline_rl(cr, width, height)$/;"	f
+theme.vertical_wibox	awesome-wm/.config/awesome/themes/vertex/theme.lua	/^function theme.vertical_wibox(s)$/;"	f
+tp_smapi.create_widget	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.create_widget(args)$/;"	f
+tp_smapi.create_widget(args)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.create_widget(args)$/;"	s	chapter:Functions
+tp_smapi.get	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.get(batid, feature)$/;"	f
+tp_smapi.get(batid, feature)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.get(batid, feature)$/;"	s	chapter:Functions
+tp_smapi.hide	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.hide()$/;"	f
+tp_smapi.hide()	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.hide()$/;"	s	chapter:Functions
+tp_smapi.installed	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.installed(batid)$/;"	f
+tp_smapi.installed(batid)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.installed(batid)$/;"	s	chapter:Functions
+tp_smapi.percentage	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.percentage(batid)$/;"	f
+tp_smapi.percentage(batid)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.percentage(batid)$/;"	s	chapter:Functions
+tp_smapi.show	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.show(batid, seconds, scr)$/;"	f
+tp_smapi.show(batid, seconds, scr)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.show(batid, seconds, scr)$/;"	s	chapter:Functions
+tp_smapi.status	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.status(batid)$/;"	f
+tp_smapi.status(batid)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.status(batid)$/;"	s	chapter:Functions
+tp_smapi.time	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^    function tp_smapi.time(batid)$/;"	f
+tp_smapi.time(batid)	awesome-wm/.config/awesome/lain/wiki/tp_smapi.md	/^## tp_smapi.time(batid)$/;"	s	chapter:Functions
+tpbat.update	awesome-wm/.config/awesome/lain/widget/contrib/tp_smapi.lua	/^        function tpbat.update()$/;"	f
+unichar	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function unichar (value)$/;"	f
+unterminated	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function unterminated (str, what, where)$/;"	f
+update_txt_layoutbox	awesome-wm/.config/awesome/themes/rainbow/theme.lua	/^local function update_txt_layoutbox(s)$/;"	f
+update_txt_layoutbox	awesome-wm/.config/awesome/themes/steamburn/theme.lua	/^local function update_txt_layoutbox(s)$/;"	f
+updatedecpoint	awesome-wm/.config/awesome/lain/util/dkjson.lua	/^local function updatedecpoint ()$/;"	f
+upower	awesome-wm/.config/awesome/lain/wiki/watch.md	/^### upower$/;"	S	section:Use case examples
+util.add_tag	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.add_tag(layout)$/;"	f
+util.delete_tag	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.delete_tag()$/;"	f
+util.magnify_client	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.magnify_client(c, width_f, height_f)$/;"	f
+util.mc	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.mc(c, width_f, height_f)$/;"	f
+util.menu_clients_current_tags	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.menu_clients_current_tags(menu, args)$/;"	f
+util.move_tag	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.move_tag(pos)$/;"	f
+util.rename_tag	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.rename_tag()$/;"	f
+util.tag_view_nonempty	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.tag_view_nonempty(direction, sc)$/;"	f
+util.useless_gaps_resize	awesome-wm/.config/awesome/lain/util/init.lua	/^function util.useless_gaps_resize(thatmuch, s, t)$/;"	f
+weather.attach	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    function weather.attach(obj)$/;"	f
+weather.forecast_update	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    function weather.forecast_update()$/;"	f
+weather.hide	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    function weather.hide()$/;"	f
+weather.show	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    function weather.show(seconds)$/;"	f
+weather.update	awesome-wm/.config/awesome/lain/widget/weather.lua	/^    function weather.update()$/;"	f
+widget.draw	awesome-wm/.config/awesome/lain/util/separators.lua	/^    widget.draw = function(mycross, wibox, cr, width, height)$/;"	f
+widget.fit	awesome-wm/.config/awesome/lain/util/separators.lua	/^    widget.fit = function(m, w, h)$/;"	f
+widget.update	awesome-wm/.config/awesome/lain/util/separators.lua	/^    widget.update = function(col1, col2)$/;"	f
+wiki	awesome-wm/.config/awesome/freedesktop/README.rst	/^.. _wiki: https:\/\/github.com\/lcpz\/awesome-freedesktop\/wiki$/;"	T	section:Installation and usage
+wiki	awesome-wm/.config/awesome/lain/README.rst	/^.. _wiki: https:\/\/github.com\/lcpz\/lain\/wiki$/;"	T	section:Contributions
