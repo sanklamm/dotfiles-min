@@ -58,6 +58,11 @@ local function run_once(cmd_arr)
 end
 
 -- run_once({ ".screenlayout/home-2d.sh" }) -- load xrandr config
+run_once({ "VBoxClient --clipboard" }) -- Enable shared clipboard
+run_once({ "VBoxClient --draganddrop" }) -- Enable drag & drop
+run_once({ "VBoxClient --seamless" }) -- Enable seamless window mode
+run_once({ "VBoxClient --checkhostversion" }) -- Enable checking the VirtualBox host version
+run_once({ "VBoxClient --vmsvga" }) -- the guest display is automatically resized according to the size of the guest window
 run_once({ "unclutter -root" }) -- entries must be separated by commas
 run_once({ "nm-applet -sm-disable" })
 -- run_once({ "dropbox" })
